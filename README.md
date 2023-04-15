@@ -19,7 +19,7 @@ cd /var/www/html
 ```
 
 ```bash
-sudo git clone git clone https://github.com/digininja/DVWA
+sudo git clone https://github.com/digininja/DVWA
 ```
 ![dvwa gitclone inhtml](https://user-images.githubusercontent.com/112984045/231324269-92bbf04a-1947-4837-99ae-6aa434dff4cb.png)
 
